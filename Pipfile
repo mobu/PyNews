@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+newsapi-python = "*"
+nltk = "*"
+textblob = "*"
+lxml = "*"
+"newspaper3k" = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
